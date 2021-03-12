@@ -1,4 +1,3 @@
-import React, { Fragment } from 'react';
 // --- useReducerを追加 ---
 import React, { Fragment, useReducer, useEffect } from 'react';
 import styled from 'styled-components';
